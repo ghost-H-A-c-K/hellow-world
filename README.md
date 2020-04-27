@@ -1,2 +1,4 @@
 # hellow-world
 just another repository
+skybox_component_update が metadata 込みのインタフェースに対応できてなかったので修正
+Phoenix のアセットアップデータを呼び出す PhxUpdateAssets.bat を追加しました。読み取り専用だと編集できないのでProject\Assets 以下を一度チェックアウトして実行する必要があります。
